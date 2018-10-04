@@ -2,10 +2,30 @@
 
 ### an exploration game
 
-(index)
+(index.html)
 
 SUNSPOTS is a game where you explore a small, isolated alien space station as a maintenence robot who's memory was accidentaly wiped by a solar flare.
 ![concept-1](https://i.pinimg.com/originals/48/27/76/482776bf8401bf856ad71aa35016f11a.jpg)
 it includes puzzles, story, and dialog with bizzare space monsters
 
-(proposal)
+(proposal.html)
+
+SUNSPOTS is an exploration game with unique characters and themes. it's relaxed in tone, focusing on aethetics, puzzles, exploration, and characters.
+the player starts with no context, but contexts will be revealed via the exploration and dialog. ideally, it will have a lot of lore and a deep story wiht a fewwell developed characters.
+development will focus on a desktop browser version, but there should also be a mobile friendly version.
+aesthetics will be heavily stylized, somewhat cartoonish, enough to be charming, but also kind of bleak or realistically flawed. 
+colors will be darker and unnatural, perhaps with streaks of brighter neon colors, living characters will probably use more natural colors, influenced by science fiction.
+
+there will be locations to move between, each location will have areas or details to inspect as well as people to talk to and interact with.
+i would like to include a system where new dialog options will become availalbe when the player encounters new information, so they can talk to other characters about their findings.
+
+since this gmae is built to be simple, I.E. a room escape game, it will mostly be comprised of looking at images to represent the area you're in, 
+clicking on areas of interest allows you to explore them, clicking on people allows you to interact with them, clicking on doors allows you to move to a new location.
+
+(documentation.html)
+
+project begin
+
+(project.html)
+
+
